@@ -1,16 +1,17 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**Ugochrist13/Ugochrist13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nwabiukwu Christian Ugochukwu
 
-Here are some ideas to get you started:
+<>GentTech</>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m building some side projects!
+
+🌱 I’m currently learning React-JS, Django, and Node-JS.
+
+👯 I’m open to collaboration with other developers.
+
+🥅 Goals: To build crazy solutions on the Blockchain.
+
+⚡ Fun fact: I love to read, write, watch movies, and travel.
+
+💬 Ask me about anything - tech, and I will surely have an answer for you.
