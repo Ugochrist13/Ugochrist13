@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nwabiukwu Christian Ugochukwu</h1>
 <h3 align="center">I am a passionate software engineer.</h3>
 
-- 🌱 I’m currently learning **React.js and React-Native**
+- 🌱 I’m currently learning **React.js**
 
 - 👯 I’m looking to collaborate on **with other developers**
 
