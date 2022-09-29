@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nwabiukwu Christian Ugochukwu</h1>
-<h3 align="center">I am a passionate software engineer.</h3>
+<h3 align="center">I am a passionate software developer.</h3>
 
 - 🌱 I’m currently learning **React.js**
 
