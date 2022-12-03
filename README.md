@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nwabiukwu Christian Ugochukwu</h1>
+<h1 align="center">Hi, I'm Christian (Gento)</h1>
 <h3 align="center">I am a react developer.</h3>
 
 - 🌱 I’m currently learning **New Front-end Technologies**
