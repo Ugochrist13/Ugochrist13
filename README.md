@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nwabiukwu Christian Ugochukwu</h1>
-<h3 align="center">I am a passionate software developer.</h3>
+<h3 align="center">I am a react developer.</h3>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **New Front-end Technologies**
 
 - 👯 I’m looking to collaborate on **with other developers**
 
@@ -15,6 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/christianugoo006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="christianugoo006" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/christian-nwabiukwu-a664a9102/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/christian-nwabiukwu-a664a9102/" height="30" width="40" /></a>
+<a href="https://facebook.com/profile.php?id=100080268887740" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="christianugoo006" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
