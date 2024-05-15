@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Christian (Gento)</h1>
-<h3 align="center">I am a software developer(React || Angular || Node).</h3>
+<h3 align="center">I am a software developer(React || Angular || Ionic || Node).</h3>
 
 - 🌱 I’m currently learning **New back-end Technologies**
 
